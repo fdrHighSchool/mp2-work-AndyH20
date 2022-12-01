@@ -9,8 +9,8 @@
 
 
 2. Discuss how you would make sure 100 is not misrepresented as an A-.
-  * **YOUR WRITING HERE**
+  * I put a boolean in my if statement that puts "-" if the grade is also greater than 60 so it wouldn't misinterpet it by the ones digit
 
 
 3. Discuss how you would make sure grades that are an F are not mislabeled as F- or F+ (eg: 49 -> F+ and 52 -> F-)
-  * **YOUR WRITING HERE**
+  * I put a boolean in each of the if statements managing the "+" and "-" if the grade is greater than 60
