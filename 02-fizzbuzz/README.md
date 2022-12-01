@@ -21,4 +21,4 @@
 | F  | F  |    F     |       T      |  T |  T |    T     |
 
 3. What does DeMorgan's state and how did you prove it for the case above?
-  * DeMorgan's state shows that if it doesn't follow the certain conditions, it will either be true or false
+  * DeMorgan's state shows that if it doesn't follow the certain conditions, it will go wherever you want to organize it.
