@@ -5,7 +5,7 @@
   * Attach a "+" on their grade if the grade ends in a 7, 8 or 9 (eg: 78 -> C+, 89 -> B+)
   * Attach a "-" on their grade if the grade ends in a 0, 1 or 2 (eg: 92 -> A-, 61 -> D-)
 
-    * **YOUR WRITING HERE**
+    * Get grade and % 10 to get ones digit. If ones digit is greater than or equal to 7, add "+". If ones digit is less than or equal to 2, add "-".
 
 
 2. Discuss how you would make sure 100 is not misrepresented as an A-.
