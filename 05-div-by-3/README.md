@@ -6,4 +6,4 @@ Outline an algorithm to determine whether or not a number is prime.
 Think of the following method header:
 `public static boolean isPrime(int num)`
 
-  * **YOUR WRITING HERE**
+  * Take the num and divide from 1-9 so it would a loop. If num % 1-9 doesn't equal 0 then it would be prime, return true. If 1 doesn't work add one and constantly mod. If one number works, return false. If the number is one digit, we don't mod by the number by itself.
